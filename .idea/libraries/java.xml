@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../WeatherApi/ipoo-weather-java-ui-base/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
